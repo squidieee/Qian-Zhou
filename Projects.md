@@ -1,7 +1,7 @@
 Crystal: a spherical Fish Tank VR display {#crystal}
 ========
 
-<img style="float: left;" width="250" src="./assets/figures/crystal-cube.JPG">  <img style="float: left;" width="250" src="./assets/figures/crystal-fruit.JPG">  <img style="float: left;" width="300" src="./assets/figures/crystal-sys.png"> 
+<img  width="250" src="./assets/figures/crystal-cube.JPG">  <img  width="250" src="./assets/figures/crystal-fruit.jpg">  <img  width="300" src="./assets/figures/crystal-sys.png"> 
 Crystal is an interactive spherical 3D display based on fish tank VR that uses stereo and head-coupled virtual reality on high-resolution desktop displays. Our new class of fish tank VR display technology uses the spherical shape to create a contained virtual reality volume. It allows visualization and interaction with 360 degrees of visibility.  We investigated the perceptual factors focusing on depth perception in the virtual environment. Prototypes of Crystal have been demonstrated in several conferences such as SIGCHI and IEEE VR.
 
 ## Publication
