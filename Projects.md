@@ -8,12 +8,10 @@ Crystal is an interactive spherical 3D display based on fish tank VR that uses s
 ## Video
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=KVKyXYCttfA
-" target="_blank"><img src="http://img.youtube.com/vi/KVKyXYCttfA/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="120" height="90" border="5" /></a>
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=pa_XLzQQskY
-" target="_blank"><img src="http://img.youtube.com/vi/pa_XLzQQskY/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="120" height="90" border="5" /></a>
+" target="_blank"><img align="left" src="http://img.youtube.com/vi/KVKyXYCttfA/0.jpg" 
+alt="demo1" width="160" height="90" border="5" /></a>  <a href="http://www.youtube.com/watch?feature=player_embedded&v=pa_XLzQQskY
+" target="_blank"><img align="left" src="http://img.youtube.com/vi/pa_XLzQQskY/0.jpg" 
+alt="demo2" width="160" height="120" border="5" /></a> 
 
 ## Publication
 __Qian Zhou__, Fan Wu, Ian Stavness, and Sidney Fels.  Closer object looks smaller: Investigating the duality of size perception in a spherical fish tank VR display. In *Proceedings of the  2020  CHI  Conference  on  Human  Factors  in  Computing  Systems*, ACM, 2020, to appear. [[preprint_pdf](.\assets\pubs\Paper474previewVer.pdf)] 
@@ -36,11 +34,11 @@ We expanded the design of [Crystal](#crystal) to supports multiple people co-loc
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=A9L03WSAciU
 " target="_blank"><img src="http://img.youtube.com/vi/A9L03WSAciU/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="120" height="90" border="5" /></a>
+alt="IMAGE ALT TEXT HERE" width="160" height="120" border="5" /></a>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=mtPR57DEMY8
 " target="_blank"><img src="http://img.youtube.com/vi/mtPR57DEMY8/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="120" height="90" border="5" /></a>
+alt="IMAGE ALT TEXT HERE" width="160" height="120" border="5" /></a>
 
 ## Publications
 
@@ -75,7 +73,7 @@ Modeling the projector as an inverse camera, we estimate the intrinsic and extri
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=BJjsPHPpaK4
 " target="_blank"><img src="http://img.youtube.com/vi/BJjsPHPpaK4/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="120" height="90" border="5" /></a>
+alt="IMAGE ALT TEXT HERE" width="160" height="120" border="5" /></a>
 
 
 ## Publication
