@@ -9,8 +9,8 @@ Crystal is an interactive spherical 3D display based on fish tank VR that uses s
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=KVKyXYCttfA
 " target="_blank"><img align="left" src="http://img.youtube.com/vi/KVKyXYCttfA/0.jpg" 
-alt="demo1" width="160" height="90" border="5" /></a>  <a href="http://www.youtube.com/watch?feature=player_embedded&v=pa_XLzQQskY
-" target="_blank"><img align="left" src="http://img.youtube.com/vi/pa_XLzQQskY/0.jpg" 
+alt="demo1" width="160" height="120" border="5" /></a>  <a href="http://www.youtube.com/watch?feature=player_embedded&v=pa_XLzQQskY
+" target="_blank"><img src="http://img.youtube.com/vi/pa_XLzQQskY/0.jpg" 
 alt="demo2" width="160" height="120" border="5" /></a> 
 
 ## Publication
@@ -23,6 +23,7 @@ __Qian Zhou__, Fan Wu, Ian Stavness, and Sidney Fels.  Match the cube: Investiga
 __Qian  Zhou__,  Gregor  Miller,  Kai  Wu,  Ian  Stavness,  and  Sidney  Fels. Analysis and practical minimization of registration error in a spherical fish  tank  virtual  reality  system. In *Asian  Conference  on  Computer Vision (ACCV)*, pages 519–534. Springer, 2016. [[pdf]](http://freeviewpointvideo.co.uk/Publications/Papers/Zhou16ACCV.pdf)
 
 ------
+
 # CoGlobe: a co-located multi-person Fish Tank VR experience
 
 
