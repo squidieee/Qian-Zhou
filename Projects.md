@@ -5,6 +5,8 @@ Crystal: a spherical Fish Tank VR display {#crystal}
 
 Crystal is an interactive spherical 3D display based on fish tank VR that uses stereo and head-coupled virtual reality on high-resolution desktop displays. Our new class of fish tank VR display technology uses the spherical shape to create a contained virtual reality volume. It allows visualization and interaction with 360 degrees of visibility.  We investigated the perceptual factors focusing on depth perception in the virtual environment. Prototypes of Crystal have been demonstrated in several conferences such as SIGCHI and IEEE VR.
 
+## Video
+
 ## Publication
 __Qian Zhou__, Fan Wu, Ian Stavness, and Sidney Fels.  Closer object looks smaller: Investigating the duality of size perception in a spherical fish tank VR display. In *Proceedings of the  2020  CHI  Conference  on  Human  Factors  in  Computing  Systems*, ACM, 2020, to appear.
 
@@ -13,24 +15,24 @@ __Qian Zhou__, Georg Hagemann, Dylan Fafard, Ian Stavness, and Sidney Fels.  An 
 __Qian Zhou__, Fan Wu, Ian Stavness, and Sidney Fels.  Match the cube: Investigation of the head-coupled input with a spherical fish tank virtual reality display.  In *IEEE Conference on Virtual Reality and 3D User Interfaces (VR)*, pages 1281–1282. IEEE, 2019.
 
 __Qian  Zhou__,  Gregor  Miller,  Kai  Wu,  Ian  Stavness,  and  Sidney  Fels. Analysis and practical minimization of registration error in a spherical fish  tank  virtual  reality  system. In *Asian  Conference  on  Computer Vision (ACCV)*, pages 519–534. Springer, 2016.
-## Video
+
 
 ------
-CoGlobe: a co-located multi-person Fish Tank VR experience
-========
+# CoGlobe: a co-located multi-person Fish Tank VR experience
+
 
 <img style="float: left;" width="900" src="./assets/figures/coglobe.png"> 
 
 We expanded the design of [Crystal](#crystal) to supports multiple people co-located in a shared space working and playing together through two different multiplayer games and tasks. Additional viewers can also watch using a variation of mixed reality with a tracked mobile smartphone. Using a smartphone as a second screen registered to the same virtual world enables multiple people to interact together. Prototype of CoGlobe has been demonstrated during 2018 Siggraph Emerging Technologies
 
-## Publication
+## Video
+
+
+## Publications
 
 __Qian  Zhou__  Georg  Hagemann,  Sidney  Fels,  Dylan  Fafard,  Andrew Wagemakers,  Chris  Chamberlain,  and  Ian  Stavness. Coglobe:   a co-located  multi-person  fish tank VR  experience.   In *ACM  SIGGRAPH  2018 Emerging Technologies*, page 5-6. ACM, 2018.
 
 Dylan Fafard,  __Qian  Zhou__,  Chris  Chamberlain,  Georg  Hagemann, Sidney Fels, and Ian Stavness.  Design and implementation of a multi-person fish tank virtual reality display.  In *Proceedings  of  the 24th  ACM  Symposium  on  Virtual  Reality  Software  and  Technology (VRST)*, page 1-9. ACM, 2018.
-
-## Video
-
 
 
 ## Media and Press 
