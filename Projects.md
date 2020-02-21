@@ -1,7 +1,8 @@
 Crystal: a spherical Fish Tank VR display {#crystal}
 ========
 
-<img  width="250" src="./assets/figures/crystal-cube.JPG">  <img  width="250" src="./assets/figures/crystal-fruit.jpg">  <img  width="300" src="./assets/figures/crystal-sys.png"> 
+<img style="float: left;" width="900" src="./assets/figures/crystal.PNG"> 
+
 Crystal is an interactive spherical 3D display based on fish tank VR that uses stereo and head-coupled virtual reality on high-resolution desktop displays. Our new class of fish tank VR display technology uses the spherical shape to create a contained virtual reality volume. It allows visualization and interaction with 360 degrees of visibility.  We investigated the perceptual factors focusing on depth perception in the virtual environment. Prototypes of Crystal have been demonstrated in several conferences such as SIGCHI and IEEE VR.
 
 ## Publication
@@ -46,7 +47,7 @@ __Qian Zhou__, Sarah Sykes, Sidney Fels, and Kenrick Kin.  Gripmarks: Using hand
 ------
 # Automatic Calibration of Multiple-projector Display Systems
 
-<img style="float: left;" width="500" src="./assets/figures/calib-pipeline.PNG"> <img style="float: left;" width="300" src="./assets/figures/calib-grid.JPG"> 
+<img style="float: left;" width="900" src="./assets/figures/calib.PNG"> 
 
 
 description
@@ -60,7 +61,8 @@ __Qian  Zhou__,  Kai  Wu,  Gregor  Miller,  Ian  Stavness,  and  Sidney  Fels. 3
 ------
 # I Got Your Point: Perceiving Pointing Gesture in the Virtual Environment 
 
-<img style="float: left;" width="250" src="./assets/figures/pointing-cue.png"> <img style="float: left;" width="450" src="./assets/figures/pointing-setup.png"> 
+<img style="float: left;" width="900" src="./assets/figures/pointing.png"> 
+
 description
 
 ## Publication
@@ -70,7 +72,8 @@ Fan Wu, __Qian Zhou__, Kyoungwon Seo, Toshiro Kashiwaqi, and Sidney Fels. I got 
 ------
 # Realistic Eye Contact in the Virtual Environment 
 
-<img style="float: left;" width="350" src="./assets/figures/eyecontact-cue.jpg"> <img style="float: left;" width="400" src="./assets/figures/eyecontact-setup.jpg"> 
+<img style="float: left;" width="900" src="./assets/figures/eyecontact.PNG"> 
+
 description
 
 ## Publication
