@@ -1,7 +1,7 @@
 
- </br></br><img align="left" src=".\assets\figures\thumbnails\chi2020_percept.PNG" 
+ <br><br><img align="left" src=".\assets\figures\thumbnails\chi2020_percept.PNG" 
 alt="alt" width="100" hspace="15"/> 
-__Qian Zhou__, Fan Wu, Ian Stavness, and Sidney Fels.  Closer object looks smaller: Investigating the duality of size perception in a spherical fish tank VR display. In *Proceedings of the  2020  CHI  Conference  on  Human  Factors  in  Computing  Systems*, ACM, 2020, to appear. [[pdf](.\assets\pubs\Paper474previewVer.pdf)] </br></br>
+__Qian Zhou__, Fan Wu, Ian Stavness, and Sidney Fels.  Closer object looks smaller: Investigating the duality of size perception in a spherical fish tank VR display. In *Proceedings of the  2020  CHI  Conference  on  Human  Factors  in  Computing  Systems*, ACM, 2020, to appear. [[pdf](.\assets\pubs\Paper474previewVer.pdf)]
 
 </br></br><img align="left" src=".\assets\figures\thumbnails\tapTask600RGB.jpg" 
 alt="alt" width="100" hspace="15"/> 
