@@ -14,13 +14,13 @@ alt="demo1" width="160" height="120" border="5" /></a>  <a href="http://www.yout
 alt="demo2" width="160" height="120" border="5" /></a> 
 
 ## Publication
-__Qian Zhou__, Fan Wu, Ian Stavness, and Sidney Fels.  Closer object looks smaller: Investigating the duality of size perception in a spherical fish tank VR display. In *Proceedings of the  2020  CHI  Conference  on  Human  Factors  in  Computing  Systems*, ACM, 2020, to appear. [[preprint_pdf](.\assets\pubs\Paper474previewVer.pdf)] 
+>__Qian Zhou__, Fan Wu, Ian Stavness, and Sidney Fels.  Closer object looks smaller: Investigating the duality of size perception in a spherical fish tank VR display. In *Proceedings of the  2020  CHI  Conference  on  Human  Factors  in  Computing  Systems*, ACM, 2020, to appear [[preprint_pdf](.\assets\pubs\Paper474previewVer.pdf)] 
 
-__Qian Zhou__, Georg Hagemann, Dylan Fafard, Ian Stavness, and Sidney Fels.  An evaluation of depth and size perception on a spherical fish tank virtual reality display.   *IEEE  Transactions  on  Visualization  and Computer Graphics (TVCG)*, 25(5): 2040–2049, 2019. [[pdf]](https://ieeexplore.ieee.org/abstract/document/8642347/) [[video]](https://youtu.be/dwSIIWJZNeY)
+>__Qian Zhou__, Georg Hagemann, Dylan Fafard, Ian Stavness, and Sidney Fels.  An evaluation of depth and size perception on a spherical fish tank virtual reality display.   *IEEE  Transactions  on  Visualization  and Computer Graphics (TVCG)*, 25(5): 2040–2049, 2019. [[pdf]](https://ieeexplore.ieee.org/abstract/document/8642347/) [[video]](https://youtu.be/dwSIIWJZNeY)
 
-__Qian Zhou__, Fan Wu, Ian Stavness, and Sidney Fels.  Match the cube: Investigation of the head-coupled input with a spherical fish tank virtual reality display.  In *IEEE Conference on Virtual Reality and 3D User Interfaces (VR)*, pages 1281–1282. IEEE, 2019. [[pdf]](https://ieeexplore.ieee.org/abstract/document/8798362/)
+>__Qian Zhou__, Fan Wu, Ian Stavness, and Sidney Fels.  Match the cube: Investigation of the head-coupled input with a spherical fish tank virtual reality display.  In *IEEE Conference on Virtual Reality and 3D User Interfaces (VR)*, pages 1281–1282. IEEE, 2019. [[pdf]](https://ieeexplore.ieee.org/abstract/document/8798362/)
 
-__Qian  Zhou__,  Gregor  Miller,  Kai  Wu,  Ian  Stavness,  and  Sidney  Fels. Analysis and practical minimization of registration error in a spherical fish  tank  virtual  reality  system. In *Asian  Conference  on  Computer Vision (ACCV)*, pages 519–534. Springer, 2016. [[pdf]](http://freeviewpointvideo.co.uk/Publications/Papers/Zhou16ACCV.pdf)
+>__Qian  Zhou__,  Gregor  Miller,  Kai  Wu,  Ian  Stavness,  and  Sidney  Fels. Analysis and practical minimization of registration error in a spherical fish  tank  virtual  reality  system. In *Asian  Conference  on  Computer Vision (ACCV)*, pages 519–534. Springer, 2016. [[pdf]](http://freeviewpointvideo.co.uk/Publications/Papers/Zhou16ACCV.pdf)
 
 ------
 
@@ -34,18 +34,18 @@ We expanded the design of [Crystal](#crystal) to supports multiple people co-loc
 ## Video
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=A9L03WSAciU
-" target="_blank"><img src="http://img.youtube.com/vi/A9L03WSAciU/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="160" height="120" border="5" /></a>
+" target="_blank"><img align="left" src="http://img.youtube.com/vi/A9L03WSAciU/0.jpg" 
+alt="siggraph2018" width="160" height="120" border="5" /></a>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=mtPR57DEMY8
 " target="_blank"><img src="http://img.youtube.com/vi/mtPR57DEMY8/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="160" height="120" border="5" /></a>
+alt="vrst2018" width="160" height="120" border="5" /></a>
 
 ## Publications
 
-__Qian  Zhou__  Georg  Hagemann,  Sidney  Fels,  Dylan  Fafard,  Andrew Wagemakers,  Chris  Chamberlain,  and  Ian  Stavness. Coglobe:   a co-located  multi-person  fish tank VR  experience.   In *ACM  SIGGRAPH  2018 Emerging Technologies*, page 5-6. ACM, 2018. [[pdf]](http://acm.mementodepot.org/pubs/proceedings/acmconferences_3214907/3214907/3214907.3214914/3214907.3214914.pdf) [[video]](https://youtu.be/A9L03WSAciU)
+>__Qian  Zhou__  Georg  Hagemann,  Sidney  Fels,  Dylan  Fafard,  Andrew Wagemakers,  Chris  Chamberlain,  and  Ian  Stavness. Coglobe:   a co-located  multi-person  fish tank VR  experience.   In *ACM  SIGGRAPH  2018 Emerging Technologies*, page 5-6. ACM, 2018. [[pdf]](http://acm.mementodepot.org/pubs/proceedings/acmconferences_3214907/3214907/3214907.3214914/3214907.3214914.pdf) [[video]](https://youtu.be/A9L03WSAciU)
 
-Dylan Fafard,  __Qian  Zhou__,  Chris  Chamberlain,  Georg  Hagemann, Sidney Fels, and Ian Stavness.  Design and implementation of a multi-person fish tank virtual reality display.  In *Proceedings  of  the 24th  ACM  Symposium  on  Virtual  Reality  Software  and  Technology (VRST)*, page 1-9. ACM, 2018. [[pdf]](.\assets\pubs\vrst2018previewVer.pdf)  [[video]](https://youtu.be/mtPR57DEMY8)
+>Dylan Fafard,  __Qian  Zhou__,  Chris  Chamberlain,  Georg  Hagemann, Sidney Fels, and Ian Stavness.  Design and implementation of a multi-person fish tank virtual reality display.  In *Proceedings  of  the 24th  ACM  Symposium  on  Virtual  Reality  Software  and  Technology (VRST)*, page 1-9. ACM, 2018. [[pdf]](.\assets\pubs\vrst2018previewVer.pdf)  [[video]](https://youtu.be/mtPR57DEMY8)
 
 
 ## Media and Press 
@@ -61,7 +61,7 @@ Gripmarks is a system that enables users to opportunistically use objects they a
 
 ## Publication
 
-__Qian Zhou__, Sarah Sykes, Sidney Fels, and Kenrick Kin.  Gripmarks: Using hand grips to transform in-hand objects into Mixed Reality input. In *Proceedings of the  2020  CHI  Conference on Human Factors in Computing Systems*, ACM, 2020, to appear. [[preprint_pdf](.\assets\pubs\Paper1861previewVer.pdf)]
+>__Qian Zhou__, Sarah Sykes, Sidney Fels, and Kenrick Kin.  Gripmarks: Using hand grips to transform in-hand objects into Mixed Reality input. In *Proceedings of the  2020  CHI  Conference on Human Factors in Computing Systems*, ACM, 2020, to appear. [[preprint_pdf](.\assets\pubs\Paper1861previewVer.pdf)]
 
 ------
 # Automatic Calibration of Multiple-projector Display System
@@ -79,9 +79,9 @@ alt="IMAGE ALT TEXT HERE" width="160" height="120" border="5" /></a>
 
 ## Publication
 
-__Qian Zhou__, Gregor Miller, Kai Wu, Daniela Correa, and Sidney Fels. Automatic  calibration of a multiple-projector spherical fish tank VR display. In *IEEE Winter Conference on Applications of Computer Vision (WACV)*, pages 1072–1081. IEEE, 2017.  [[pdf]](https://imkaywu.github.io/assets/files/2016_wacv_automatic_calibration_multiple.pdf)  [[video]](https://youtu.be/BJjsPHPpaK4)
+>__Qian Zhou__, Gregor Miller, Kai Wu, Daniela Correa, and Sidney Fels. Automatic  calibration of a multiple-projector spherical fish tank VR display. In *IEEE Winter Conference on Applications of Computer Vision (WACV)*, pages 1072–1081. IEEE, 2017.  [[pdf]](https://imkaywu.github.io/assets/files/2016_wacv_automatic_calibration_multiple.pdf)  [[video]](https://youtu.be/BJjsPHPpaK4)
 
-__Qian  Zhou__,  Kai  Wu,  Gregor  Miller,  Ian  Stavness,  and  Sidney  Fels. 3dps: An  auto-calibrated  three-dimensional perspective-corrected spherical display.  In *Virtual  Reality  (VR)*,  2017  IEEE,  pages  455–456. IEEE, 2017. [[pdf]](http://www.freeviewpointvideo.co.uk/Publications/Papers/Zhou17IEEEVR.pdf)
+>__Qian  Zhou__,  Kai  Wu,  Gregor  Miller,  Ian  Stavness,  and  Sidney  Fels. 3dps: An  auto-calibrated  three-dimensional perspective-corrected spherical display.  In *Virtual  Reality  (VR)*,  2017  IEEE,  pages  455–456. IEEE, 2017. [[pdf]](http://www.freeviewpointvideo.co.uk/Publications/Papers/Zhou17IEEEVR.pdf)
 
 ------
 # I Got Your Point: Perceiving Pointing Gesture in the Virtual Environment 
@@ -92,17 +92,19 @@ We designed and evaluated an intelligent virtual agent (IVA) that can point to s
 
 ## Publication
 
-Fan Wu, __Qian Zhou__, Kyoungwon Seo, Toshiro Kashiwaqi, and Sidney Fels. I got your point:  An investigation of pointing cues in a spherical fish tank virtual reality display.  In *IEEE Conference on Virtual Reality and 3D User Interfaces (VR)*, pages 1237–1238. IEEE, 2019. [[pdf]](https://ieeexplore.ieee.org/abstract/document/8798063)
+>Fan Wu, __Qian Zhou__, Kyoungwon Seo, Toshiro Kashiwaqi, and Sidney Fels. I got your point:  An investigation of pointing cues in a spherical fish tank virtual reality display.  In *IEEE Conference on Virtual Reality and 3D User Interfaces (VR)*, pages 1237–1238. IEEE, 2019. [[pdf]](https://ieeexplore.ieee.org/abstract/document/8798063)
 
 ------
 # Realistic Eye Contact in the Virtual Environment 
 
 <img style="float: left;" width="900" src="./assets/figures/eyecontact.PNG"> 
 
+
 We describe the design, implementation and initial evaluation of a spherical Fish Tank Virtual Reality (FTVR) display for realistic eye-contact. We identify display shape, size, and depth cues as well as model fidelity as important considerations and challenges for setting up realistic eye-contact and package it into a reproducible framework.
+
 
 ## Publication
 
-Georg  Hagemann,  __Qian Zhou__,  Ian  Stavness,  and  Sidney  Fels. Investigating spherical fish tank virtual reality displays for establishing realistic eye-contact. In *IEEE Conference on Virtual Reality and3D User Interfaces (VR)*, pages 950–951. IEEE, 2019. [[pdf]](https://ieeexplore.ieee.org/abstract/document/8797905/)
+>Georg  Hagemann,  __Qian Zhou__,  Ian  Stavness,  and  Sidney  Fels. Investigating spherical fish tank virtual reality displays for establishing realistic eye-contact. In *IEEE Conference on Virtual Reality and3D User Interfaces (VR)*, pages 950–951. IEEE, 2019. [[pdf]](https://ieeexplore.ieee.org/abstract/document/8797905/)
 
-Georg  Hagemann,  __Qian  Zhou__,  Ian  Stavness,  Oky Dicky Ardiansyah Prima, and Sidney S Fels. Here’s looking at you:  A spherical ftvr display for realistic eye-contact. In *Proceedings of the 2018 ACM International Conference on Interactive Surfaces and Spaces (ISS)*, pages 357–362. ACM, 2018. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3279778.3281456/)
+>Georg  Hagemann,  __Qian  Zhou__,  Ian  Stavness,  Oky Dicky Ardiansyah Prima, and Sidney S Fels. Here’s looking at you:  A spherical ftvr display for realistic eye-contact. In *Proceedings of the 2018 ACM International Conference on Interactive Surfaces and Spaces (ISS)*, pages 357–362. ACM, 2018. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3279778.3281456/)
