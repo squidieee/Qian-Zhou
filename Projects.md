@@ -68,7 +68,7 @@ Gripmarks is a system that enables users to opportunistically use objects they a
 
 <img style="float: left;" width="900" src="./assets/figures/calib.PNG"> 
 
-Modeling the projector as an inverse camera, we estimate the intrinsic and extrinsic projector parameters automatically using a set of projected images. A single camera is placed beneath to observe partially visible projected patterns. Using the correspondence between the observed pattern and the projected pattern, we reconstruct the shape of the spherical display and finally recover the 3D position of each  pixel on the display. We demonstrate our automatic approach can achieve an on-surface point mismatch less than 1mm and line mismatch less than 1 degree on a 30 cm diameter spherical screen. The calibration approach is accurate for a desktop 3D display and can be applied to other multiple-projector displays with vairous shapes of screens. 
+Modeling the projector as an inverse camera, we estimate the intrinsic and extrinsic projector parameters automatically using a set of projected images. A single camera is placed beneath to observe partially visible projected patterns. Using the correspondence between the observed pattern and the projected pattern, we reconstruct the shape of the spherical display and finally recover the 3D position of each pixel on the display. We demonstrate our automatic approach can achieve an on-surface point mismatch less than 1mm and line mismatch less than 1 degree on a 30 cm diameter spherical screen. The calibration approach is accurate for a desktop 3D display and can be applied to other multiple-projector displays with vairous shapes of screens. 
 
 ## Video
 
