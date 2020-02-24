@@ -60,7 +60,7 @@ alt="vrst2018" width="160" height="120" border="5" /></a>
 Gripmarks is a system that enables users to opportunistically use objects they are already holding as input surfaces for mixed reality head-mounted displays (HMD). Leveraging handheld objects reduces the need for users to free up their hands or acquire a controller to interact with their HMD. Gripmarks associate a particular hand grip with the shape primitive of the physical object without the need of object recognition or instrumenting the object. From the grip pose and shape primitive we can infer the surface of the object. We explore two categories of input objects 1) tangible surfaces and 2) tangible tools with representative applications.
 
 <img style="float: left;" width="900" src="./assets/figures/grip2.jpg"> 
-
+<br>
 ## Publication
 
 >__Qian Zhou__, Sarah Sykes, Sidney Fels, and Kenrick Kin.  Gripmarks: Using hand grips to transform in-hand objects into Mixed Reality input. In *Proceedings of the  2020  CHI  Conference on Human Factors in Computing Systems*, ACM, 2020, to appear. [[preprint_pdf](.\assets\pubs\Paper1861previewVer.pdf)]
