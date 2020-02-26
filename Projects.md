@@ -49,8 +49,9 @@ alt="vrst2018" width="160" height="120" border="5" /></a>
 
 
 ## Media and Press 
-- [siliconrepublic](https://www.siliconrepublic.com/machines/crystal-ball-vr-display)
-- [citytv](https://www.btvancouver.ca/videos/crystal-ball-takes-virtual-reality-to-next-level/)
+- 2019 [*Siliconrepublic*](https://www.siliconrepublic.com/machines/crystal-ball-vr-display) Could this large ‘crystal ball’ display be the future of collaborative VR? 
+- 2019 [*City News in Vancouver*](https://www.btvancouver.ca/videos/crystal-ball-takes-virtual-reality-to-next-level/) ‘Crystal ball’ takes virtual reality to next level 
+- 2019 [*Siggraph*](https://blog.siggraph.org/2019/02/coglobe-collaborative-vr-in-a-fish-tank.html/) CoGlobe: Collaborative VR in a Fish Tank
 
 ------
 # Gripmark: Transform Hand Grips into Tangible Input in MR
