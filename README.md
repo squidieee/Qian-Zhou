@@ -1,4 +1,4 @@
-## About
+## [About](https://squidieee.github.io/Qian-Zhou/index.html)
 
 <img style="float: right;" width="150" src="https://hct-lab.sites.olt.ubc.ca/files/2017/06/cropped-IMG_1451-Copy-2.jpg"> 
 I'm a PhD candidate in the [Human Communication Technologies Lab](https://hct.ece.ubc.ca/) at the University of British Columbia. My research interest includes VR/AR, Human Computer Interaction and visual perception. I'm passionate about applying Computer Vision techniques to prototype 3D interactions and projector-based 3D displays. 
